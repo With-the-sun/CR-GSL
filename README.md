@@ -1,4 +1,4 @@
-# CR-GSL
+![image](https://github.com/user-attachments/assets/cc988cc9-15cc-4135-b44e-3745531a84fa)# CR-GSL
 This project provides a description of the data used in the article ‘Anomaly recognition method for cigarette-rolling process based on graph structure learning’ and showcases a small portion of the data utilized in the article.
 
 The data corresponds to Table 2 in Section 4.1 of the article. This multivariate time series includes 27 indicators for 10,000 cigarettes. During the production process, 27 indicators were collected for each cigarette, covering three steps: VE, SE, and MAX.
@@ -18,7 +18,9 @@ No.	Indicator Name			No.	Indicator Name
 13	Weight of cigarette in sections 2			27	Air leakage		
 14	Weight of cigarette in sections 3						
 The blue, orange, and green indicators are VE, SE, and MAX respectively							
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/30712499-e67e-46eb-a700-4274866b07b6)
+
+
 
 
 
