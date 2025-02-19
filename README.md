@@ -5,3 +5,4 @@ The implementation of the CR-GSL is conducted on a computer equipped with a Micr
 
 Since the data was initially processed using MATLAB, only '.mat' files are provided here for reference. If specific data in CSV format is required, please contact the authors to obtain it.
 
+If you have additional questions regarding the data or the article, please contact clsnnqns@163.com.
