@@ -2,6 +2,7 @@
 This project provides a description of the data used in the article ‘Anomaly recognition method for cigarette-rolling process based on graph structure learning’ and showcases a small portion of the data utilized in the article.
 
 The data corresponds to Table 2 in Section 4.1 of the article. This multivariate time series includes 27 indicators for 10,000 cigarettes. During the production process, 27 indicators were collected for each cigarette, covering three steps: VE, SE, and MAX.
+
 No.	Indicator Name			No.	Indicator Name		
 1	Suction tape tension pressure			15	Weight of cigarette in sections 4		
 2	Suction rod conveyor vacuum pressure			16	Weight of cigarette in sections 5		
