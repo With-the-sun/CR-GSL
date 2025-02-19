@@ -18,8 +18,7 @@ The data corresponds to Table 2 in Section 4.1 of the article. This multivariate
 | 11        | Position of compaction end           | 25  | Draw resistance                   |
 | 12        | Weight of cigarette in sections 1    | 26  | Ventilating strength              |
 | 13        | Weight of cigarette in sections 2    | 27  | Air leakage                       |
-| 14        | Weight of cigarette in sections 3    |     |
-| The blue, orange, and green indicators are VE, SE, and MAX respectively |					
+| 14        | Weight of cigarette in sections 3    |     |				
 #
 
 
