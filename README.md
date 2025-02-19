@@ -19,7 +19,7 @@ No.	Indicator Name			No.	Indicator Name
 13	Weight of cigarette in sections 2			27	Air leakage		
 14	Weight of cigarette in sections 3						
 The blue, orange, and green indicators are VE, SE, and MAX respectively							
-![image](https://github.com/user-attachments/assets/30712499-e67e-46eb-a700-4274866b07b6)
+#
 
 
 
